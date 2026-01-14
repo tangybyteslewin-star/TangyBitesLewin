@@ -629,8 +629,8 @@
       "id": "TB_COMBO_CRUNCH_N_CHILL",
       "name": "Crunch N’ Chill",
       "shortName": "Crunch N Chill",
-      "categoryId": "COMBOS",
-      "subcategoryId": null,
+      "category_id": "COMBOS",
+      "sub_category_id": null,
       "description": "Popcorn Chicken (Small) / Chicken Momos Steamed / Paneer Momos Steamed + Mojito",
       "images": [],
       "videos": [],
@@ -647,15 +647,15 @@
       "status": "Active",
       "isDeleted": false,
       "maxQtyPerOrder": 5,
-      "createdTime": 1768400000001,
-      "updatedTime": 1768400000001
+      "created_time": 1768400000001,
+      "updated_time": 1768400000001
     },
     {
       "id": "TB_COMBO_CRUNCH_CARNIVAL",
       "name": "Crunch Carnival Combo",
       "shortName": "Carnival",
-      "categoryId": "COMBOS",
-      "subcategoryId": null,
+      "category_id": "COMBOS",
+      "sub_category_id": null,
       "description": "Popcorn Chicken (Small) + Normal French Fries + Chicken Steamed Momos / Veg Momos + Mojito",
       "images": [],
       "videos": [],
@@ -672,15 +672,15 @@
       "status": "Active",
       "isDeleted": false,
       "maxQtyPerOrder": 5,
-      "createdTime": 1768400000002,
-      "updatedTime": 1768400000002
+      "created_time": 1768400000002,
+      "updated_time": 1768400000002
     },
     {
       "id": "TB_COMBO_CRISP_N_CHILL",
       "name": "Crisp & Chill Combo",
       "shortName": "Crisp Chill",
-      "categoryId": "COMBOS",
-      "subcategoryId": null,
+      "category_id": "COMBOS",
+      "sub_category_id": null,
       "description": "Popcorn Chicken (Small) + Veg Momos + Waffles (Milk/White/Dark Chocolate) + Mojito",
       "images": [],
       "videos": [],
@@ -697,15 +697,15 @@
       "status": "Active",
       "isDeleted": false,
       "maxQtyPerOrder": 5,
-      "createdTime": 1768400000003,
-      "updatedTime": 1768400000003
+      "created_time": 1768400000003,
+      "updated_time": 1768400000003
     },
     {
       "id": "TB_COMBO_BITEZ_ROYALE",
       "name": "Bitez Royale",
       "shortName": "Royale",
-      "categoryId": "COMBOS",
-      "subcategoryId": null,
+      "category_id": "COMBOS",
+      "sub_category_id": null,
       "description": "Veg Momos Steamed + Popcorn Chicken (Small) + French Fries + Waffles (Milk) + Mojito",
       "images": [],
       "videos": [],
@@ -722,15 +722,15 @@
       "status": "Active",
       "isDeleted": false,
       "maxQtyPerOrder": 5,
-      "createdTime": 1768400000004,
-      "updatedTime": 1768400000004
+      "created_time": 1768400000004,
+      "updated_time": 1768400000004
     },
     {
       "id": "TB_COMBO_TANGY_MAXX",
       "name": "Tangy Maxx Combo",
       "shortName": "Tangy Maxx",
-      "categoryId": "COMBOS",
-      "subcategoryId": null,
+      "category_id": "COMBOS",
+      "sub_category_id": null,
       "description": "Chicken Fried Momos + Popcorn Chicken (Small) + Peri Peri Fries + Waffles (Double) + Mojito",
       "images": [],
       "videos": [],
@@ -747,8 +747,8 @@
       "status": "Active",
       "isDeleted": false,
       "maxQtyPerOrder": 5,
-      "createdTime": 1768400000005,
-      "updatedTime": 1768400000005
+      "created_time": 1768400000005,
+      "updated_time": 1768400000005
     }
   ]
 }
