@@ -1,47 +1,26 @@
 {
-    "last_updated": 1768416737361,
+    "last_updated": 1768417648821,
     "orders": [
         {
-            "id": "1768416737361",
+            "id": "1768417648821",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
                 {
-                    "productId": "TB_MOMOS_MIX_STEAM",
-                    "productName": "Mixed Veg Momos (Steamed)",
-                    "quantity": 1,
-                    "priceEach": 70.0,
-                    "totalPrice": 70.0
-                },
-                {
-                    "productId": "TB_MOMOS_MIX_FRIED",
-                    "productName": "Mixed Veg Momos (Fried)",
-                    "quantity": 1,
-                    "priceEach": 80.0,
-                    "totalPrice": 80.0
-                },
-                {
-                    "productId": "TB_MOMOS_CHICKEN_STEAM",
-                    "productName": "Chicken Momos (Steamed)",
+                    "productId": "TB_POPCORN_SMALL",
+                    "productName": "Chicken Popcorn (Small)",
                     "quantity": 1,
                     "priceEach": 90.0,
                     "totalPrice": 90.0
-                },
-                {
-                    "productId": "TB_MOMOS_MIX_KURKURE",
-                    "productName": "Mixed Veg Momos (Kurkure)",
-                    "quantity": 1,
-                    "priceEach": 100.0,
-                    "totalPrice": 100.0
                 }
             ],
-            "subtotal": 340.0,
+            "subtotal": 90.0,
             "deliveryCharge": 0.0,
-            "total": 340.0,
+            "total": 90.0,
             "status": "Confirmed",
-            "createdTime": 1768416737361,
-            "updatedTime": 1768416737361,
+            "createdTime": 1768417648821,
+            "updatedTime": 1768417648821,
             "isDeleted": false,
             "note": null
         }
