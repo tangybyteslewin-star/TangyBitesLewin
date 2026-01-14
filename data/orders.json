@@ -1,8 +1,8 @@
 {
-    "last_updated": 1768406148637,
+    "last_updated": 1768406299224,
     "orders": [
         {
-            "id": "1768406148637",
+            "id": "1768406299224",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
@@ -13,21 +13,14 @@
                     "quantity": 1,
                     "priceEach": 70.0,
                     "totalPrice": 70.0
-                },
-                {
-                    "productId": "TB_MOMOS_MIX_FRIED",
-                    "productName": "Mixed Veg Momos (Fried)",
-                    "quantity": 1,
-                    "priceEach": 80.0,
-                    "totalPrice": 80.0
                 }
             ],
-            "subtotal": 150.0,
+            "subtotal": 70.0,
             "deliveryCharge": 0.0,
-            "total": 150.0,
+            "total": 70.0,
             "status": "Confirmed",
-            "createdTime": 1768406148637,
-            "updatedTime": 1768406148637,
+            "createdTime": 1768406299224,
+            "updatedTime": 1768406299224,
             "isDeleted": false,
             "note": null
         }
