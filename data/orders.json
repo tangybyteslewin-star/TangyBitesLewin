@@ -1,26 +1,33 @@
 {
-    "last_updated": 1768407034649,
+    "last_updated": 1768407202765,
     "orders": [
         {
-            "id": "1768407034649",
+            "id": "1768407202765",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
                 {
-                    "productId": "TB_FRIES_NORMAL",
-                    "productName": "Normal Fries",
+                    "productId": "TB_POPCORN_SMALL",
+                    "productName": "Chicken Popcorn (Small)",
                     "quantity": 1,
-                    "priceEach": 50.0,
-                    "totalPrice": 50.0
+                    "priceEach": 90.0,
+                    "totalPrice": 90.0
+                },
+                {
+                    "productId": "TB_POPCORN_LARGE",
+                    "productName": "Chicken Popcorn (Large)",
+                    "quantity": 1,
+                    "priceEach": 130.0,
+                    "totalPrice": 130.0
                 }
             ],
-            "subtotal": 50.0,
+            "subtotal": 220.0,
             "deliveryCharge": 0.0,
-            "total": 50.0,
+            "total": 220.0,
             "status": "Confirmed",
-            "createdTime": 1768407034649,
-            "updatedTime": 1768407034649,
+            "createdTime": 1768407202765,
+            "updatedTime": 1768407202765,
             "isDeleted": false,
             "note": null
         }
