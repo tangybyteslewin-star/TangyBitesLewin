@@ -1,33 +1,26 @@
 {
-    "last_updated": 1768412047564,
+    "last_updated": 1768412165851,
     "orders": [
         {
-            "id": "1768412047564",
+            "id": "1768412165851",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
                 {
-                    "productId": "TB_POPCORN_LARGE",
-                    "productName": "Chicken Popcorn (Large)",
+                    "productId": "TB_POPCORN_SMALL",
+                    "productName": "Chicken Popcorn (Small)",
                     "quantity": 1,
-                    "priceEach": 130.0,
-                    "totalPrice": 130.0
-                },
-                {
-                    "productId": "TB_WAFFLE_MILK",
-                    "productName": "Milk Chocolate Waffle",
-                    "quantity": 1,
-                    "priceEach": 80.0,
-                    "totalPrice": 80.0
+                    "priceEach": 90.0,
+                    "totalPrice": 90.0
                 }
             ],
-            "subtotal": 210.0,
+            "subtotal": 90.0,
             "deliveryCharge": 0.0,
-            "total": 210.0,
+            "total": 90.0,
             "status": "Confirmed",
-            "createdTime": 1768412047564,
-            "updatedTime": 1768412047564,
+            "createdTime": 1768412165851,
+            "updatedTime": 1768412165851,
             "isDeleted": false,
             "note": null
         }
