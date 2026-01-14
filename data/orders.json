@@ -1,33 +1,33 @@
 {
-    "last_updated": 1768394063993,
+    "last_updated": 1768400908641,
     "orders": [
         {
-            "id": "1768394063993",
+            "id": "1768400908641",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
+                {
+                    "productId": "TB_MOMOS_MIX_STEAM",
+                    "productName": "Mixed Veg Momos (Steamed)",
+                    "quantity": 1,
+                    "priceEach": 70.0,
+                    "totalPrice": 70.0
+                },
                 {
                     "productId": "TB_MOMOS_MIX_FRIED",
                     "productName": "Mixed Veg Momos (Fried)",
                     "quantity": 1,
                     "priceEach": 80.0,
                     "totalPrice": 80.0
-                },
-                {
-                    "productId": "TB_MOMOS_CHICKEN_STEAM",
-                    "productName": "Chicken Momos (Steamed)",
-                    "quantity": 1,
-                    "priceEach": 90.0,
-                    "totalPrice": 90.0
                 }
             ],
-            "subtotal": 170.0,
+            "subtotal": 150.0,
             "deliveryCharge": 0.0,
-            "total": 170.0,
+            "total": 150.0,
             "status": "Confirmed",
-            "createdTime": 1768394063993,
-            "updatedTime": 1768394063993,
+            "createdTime": 1768400908641,
+            "updatedTime": 1768400908641,
             "isDeleted": false,
             "note": null
         }
