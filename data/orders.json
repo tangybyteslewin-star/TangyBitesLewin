@@ -1,26 +1,26 @@
 {
-    "last_updated": 1768406419701,
+    "last_updated": 1768407034649,
     "orders": [
         {
-            "id": "1768406419701",
+            "id": "1768407034649",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
                 {
-                    "productId": "TB_MOMOS_MIX_STEAM",
-                    "productName": "Mixed Veg Momos (Steamed)",
+                    "productId": "TB_FRIES_NORMAL",
+                    "productName": "Normal Fries",
                     "quantity": 1,
-                    "priceEach": 70.0,
-                    "totalPrice": 70.0
+                    "priceEach": 50.0,
+                    "totalPrice": 50.0
                 }
             ],
-            "subtotal": 70.0,
+            "subtotal": 50.0,
             "deliveryCharge": 0.0,
-            "total": 70.0,
+            "total": 50.0,
             "status": "Confirmed",
-            "createdTime": 1768406419701,
-            "updatedTime": 1768406419701,
+            "createdTime": 1768407034649,
+            "updatedTime": 1768407034649,
             "isDeleted": false,
             "note": null
         }
