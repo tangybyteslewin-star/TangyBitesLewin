@@ -1,5 +1,76 @@
 {
-    "last_updated": 1765702411988,
-    "categories": [
-    ]
+  "last_updated": 1767089200000,
+  "categories": [
+    {
+      "id": "MOMOS",
+      "name": "Momos",
+      "short_name": "Momos",
+      "icon": "https://raw.githubusercontent.com/tangybyteslewin-star/TangyBitesLewin/main/images/categories/momos.png",
+      "description": "Veg and Non-Veg Momos",
+      "is_featured": true,
+      "sort_order": 1,
+      "status": "Active",
+      "is_deleted": false,
+      "updated_time": 1767089200000,
+      "created_time": 1767089200000,
+      "sub_categories": []
+    },
+    {
+      "id": "CHICKEN_POPCORN",
+      "name": "Chicken Popcorn",
+      "short_name": "Popcorn",
+      "icon": "https://raw.githubusercontent.com/tangybyteslewin-star/TangyBitesLewin/main/images/categories/chicken_popcorn.png",
+      "description": "Crispy chicken popcorn",
+      "is_featured": true,
+      "sort_order": 2,
+      "status": "Active",
+      "is_deleted": false,
+      "updated_time": 1767089200000,
+      "created_time": 1767089200000,
+      "sub_categories": []
+    },
+    {
+      "id": "FRIES",
+      "name": "Tangy Fries Specials",
+      "short_name": "Fries",
+      "icon": "https://raw.githubusercontent.com/tangybyteslewin-star/TangyBitesLewin/main/images/categories/fries.png",
+      "description": "Loaded and flavored fries",
+      "is_featured": true,
+      "sort_order": 3,
+      "status": "Active",
+      "is_deleted": false,
+      "updated_time": 1767089200000,
+      "created_time": 1767089200000,
+      "sub_categories": []
+    },
+    {
+      "id": "WAFFLES",
+      "name": "Tangy Waffle Treats",
+      "short_name": "Waffles",
+      "icon": "https://raw.githubusercontent.com/tangybyteslewin-star/TangyBitesLewin/main/images/categories/waffles.png",
+      "description": "Chocolate and dessert waffles",
+      "is_featured": true,
+      "sort_order": 4,
+      "status": "Active",
+      "is_deleted": false,
+      "updated_time": 1767089200000,
+      "created_time": 1767089200000,
+      "sub_categories": []
+    },
+    {
+      "id": "MOJITOS",
+      "name": "Fresh Fizz Mojitos",
+      "short_name": "Mojitos",
+      "icon": "https://raw.githubusercontent.com/tangybyteslewin-star/TangyBitesLewin/main/images/categories/mojitos.png",
+      "description": "Refreshing mojito drinks",
+      "is_featured": true,
+      "sort_order": 5,
+      "status": "Active",
+      "is_deleted": false,
+      "updated_time": 1767089200000,
+      "created_time": 1767089200000,
+      "sub_categories": []
+    }
+  ]
 }
+
