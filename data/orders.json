@@ -1,8 +1,8 @@
 {
-    "last_updated": 1768411855162,
+    "last_updated": 1768412047564,
     "orders": [
         {
-            "id": "1768411855162",
+            "id": "1768412047564",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
@@ -13,14 +13,21 @@
                     "quantity": 1,
                     "priceEach": 130.0,
                     "totalPrice": 130.0
+                },
+                {
+                    "productId": "TB_WAFFLE_MILK",
+                    "productName": "Milk Chocolate Waffle",
+                    "quantity": 1,
+                    "priceEach": 80.0,
+                    "totalPrice": 80.0
                 }
             ],
-            "subtotal": 130.0,
+            "subtotal": 210.0,
             "deliveryCharge": 0.0,
-            "total": 130.0,
+            "total": 210.0,
             "status": "Confirmed",
-            "createdTime": 1768411855162,
-            "updatedTime": 1768411855162,
+            "createdTime": 1768412047564,
+            "updatedTime": 1768412047564,
             "isDeleted": false,
             "note": null
         }
