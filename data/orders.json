@@ -1,26 +1,47 @@
 {
-    "last_updated": 1768415965439,
+    "last_updated": 1768415991770,
     "orders": [
         {
-            "id": "1768415965439",
+            "id": "1768415991770",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
                 {
-                    "productId": "TB_POPCORN_LARGE",
-                    "productName": "Chicken Popcorn (Large)",
-                    "quantity": 3,
-                    "priceEach": 130.0,
-                    "totalPrice": 130.0
+                    "productId": "TB_WAFFLE_NUTELLA",
+                    "productName": "Nutella Waffle",
+                    "quantity": 1,
+                    "priceEach": 80.0,
+                    "totalPrice": 80.0
+                },
+                {
+                    "productId": "TB_WAFFLE_DARK",
+                    "productName": "Dark Chocolate Waffle",
+                    "quantity": 1,
+                    "priceEach": 80.0,
+                    "totalPrice": 80.0
+                },
+                {
+                    "productId": "TB_WAFFLE_WHITE",
+                    "productName": "White Chocolate Waffle",
+                    "quantity": 1,
+                    "priceEach": 80.0,
+                    "totalPrice": 80.0
+                },
+                {
+                    "productId": "TB_WAFFLE_MILK",
+                    "productName": "Milk Chocolate Waffle",
+                    "quantity": 1,
+                    "priceEach": 80.0,
+                    "totalPrice": 80.0
                 }
             ],
-            "subtotal": 390.0,
+            "subtotal": 320.0,
             "deliveryCharge": 0.0,
-            "total": 390.0,
+            "total": 320.0,
             "status": "Confirmed",
-            "createdTime": 1768415965439,
-            "updatedTime": 1768415965439,
+            "createdTime": 1768415991770,
+            "updatedTime": 1768415991770,
             "isDeleted": false,
             "note": null
         }
