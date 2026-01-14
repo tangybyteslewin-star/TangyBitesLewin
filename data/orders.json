@@ -1,34 +1,55 @@
 {
-    "last_updated": 1768419177727,
+    "last_updated": 1768427681584,
     "orders": [
         {
-            "id": "1768419177727",
+            "id": "1768427681584",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
                 {
-                    "productId": "TB_POPCORN_SMALL",
-                    "productName": "Chicken Popcorn (Small)",
+                    "productId": "TB_COMBO_CRUNCH_N_CHILL",
+                    "productName": "Crunch N’ Chill",
                     "quantity": 1,
-                    "priceEach": 90.0,
-                    "totalPrice": 90.0
+                    "priceEach": 129.0,
+                    "totalPrice": 129.0
                 },
                 {
-                    "productId": "TB_POPCORN_LARGE",
-                    "productName": "Chicken Popcorn (Large)",
+                    "productId": "TB_COMBO_CRUNCH_CARNIVAL",
+                    "productName": "Crunch Carnival Combo",
                     "quantity": 1,
-                    "priceEach": 130.0,
-                    "totalPrice": 130.0
+                    "priceEach": 249.0,
+                    "totalPrice": 249.0
+                },
+                {
+                    "productId": "TB_COMBO_CRISP_N_CHILL",
+                    "productName": "Crisp & Chill Combo",
+                    "quantity": 1,
+                    "priceEach": 289.0,
+                    "totalPrice": 289.0
+                },
+                {
+                    "productId": "TB_COMBO_BITEZ_ROYALE",
+                    "productName": "Bitez Royale",
+                    "quantity": 1,
+                    "priceEach": 339.0,
+                    "totalPrice": 339.0
+                },
+                {
+                    "productId": "TB_COMBO_TANGY_MAXX",
+                    "productName": "Tangy Maxx Combo",
+                    "quantity": 1,
+                    "priceEach": 389.0,
+                    "totalPrice": 389.0
                 }
             ],
-            "subtotal": 220.0,
+            "subtotal": 1395.0,
             "deliveryCharge": 0.0,
-            "total": 220.0,
+            "total": 1395.0,
             "status": "Confirmed",
-            "paymentMode": "GPAY",
-            "createdTime": 1768419177727,
-            "updatedTime": 1768419177727,
+            "paymentMode": "CASH",
+            "createdTime": 1768427681584,
+            "updatedTime": 1768427681584,
             "isDeleted": false,
             "note": null
         }
