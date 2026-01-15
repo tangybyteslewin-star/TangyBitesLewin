@@ -1,55 +1,27 @@
 {
-    "last_updated": 1768427721675,
+    "last_updated": 1768448848980,
     "orders": [
         {
-            "id": "1768427721675",
+            "id": "1768448848980",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
                 {
-                    "productId": "TB_COMBO_CRUNCH_N_CHILL",
-                    "productName": "Crunch N’ Chill",
+                    "productId": "TB_MOMOS_MIX_STEAM",
+                    "productName": "Mixed Veg Momos (Steamed)",
                     "quantity": 1,
-                    "priceEach": 129.0,
-                    "totalPrice": 129.0
-                },
-                {
-                    "productId": "TB_COMBO_CRUNCH_CARNIVAL",
-                    "productName": "Crunch Carnival Combo",
-                    "quantity": 1,
-                    "priceEach": 249.0,
-                    "totalPrice": 249.0
-                },
-                {
-                    "productId": "TB_COMBO_CRISP_N_CHILL",
-                    "productName": "Crisp & Chill Combo",
-                    "quantity": 1,
-                    "priceEach": 289.0,
-                    "totalPrice": 289.0
-                },
-                {
-                    "productId": "TB_COMBO_BITEZ_ROYALE",
-                    "productName": "Bitez Royale",
-                    "quantity": 1,
-                    "priceEach": 339.0,
-                    "totalPrice": 339.0
-                },
-                {
-                    "productId": "TB_COMBO_TANGY_MAXX",
-                    "productName": "Tangy Maxx Combo",
-                    "quantity": 1,
-                    "priceEach": 389.0,
-                    "totalPrice": 389.0
+                    "priceEach": 70.0,
+                    "totalPrice": 70.0
                 }
             ],
-            "subtotal": 1395.0,
+            "subtotal": 70.0,
             "deliveryCharge": 0.0,
-            "total": 1395.0,
+            "total": 70.0,
             "status": "Confirmed",
-            "paymentMode": "GPAY",
-            "createdTime": 1768427721675,
-            "updatedTime": 1768427721675,
+            "paymentMode": "CASH",
+            "createdTime": 1768448848980,
+            "updatedTime": 1768448848980,
             "isDeleted": false,
             "note": null
         }
