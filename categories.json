@@ -1,5 +1,5 @@
 {
-  "last_updated": 1767089200000,
+  "last_updated": 1768618909000,
   "categories": [
     {
       "id": "MOMOS",
@@ -70,7 +70,48 @@
       "updated_time": 1767089200000,
       "created_time": 1767089200000,
       "sub_categories": []
+    },
+    {
+      "id": "TANGY_SNACK_HUB",
+      "name": "Tangy Snack Hub",
+      "short_name": "Tangy Snacks",
+      "icon": null,
+      "description": "Crispy and tasty snack items",
+      "is_featured": true,
+      "sort_order": 1,
+      "status": "Active",
+      "is_deleted": false,
+      "updated_time": 1767089500000,
+      "created_time": 1767089500000,
+      "sub_categories": []
+    },
+    {
+      "id": "UFO_BURGER",
+      "name": "UFO Burger",
+      "short_name": "UFO Burger",
+      "icon": null,
+      "description": "Delicious UFO-style burgers with crispy fillings",
+      "is_featured": true,
+      "sort_order": 2,
+      "status": "Active",
+      "is_deleted": false,
+      "updated_time": 1767089500000,
+      "created_time": 1767089500000,
+      "sub_categories": []
+    },
+    {
+      "id": "KULFI",
+      "name": "Kulfi",
+      "short_name": "Kulfi",
+      "icon": null,
+      "description": "Traditional Indian frozen desserts with rich flavours",
+      "is_featured": true,
+      "sort_order": 4,
+      "status": "Active",
+      "is_deleted": false,
+      "updated_time": 1767089500000,
+      "created_time": 1767089500000,
+      "sub_categories": []
     }
   ]
 }
-
