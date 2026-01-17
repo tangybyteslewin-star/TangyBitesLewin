@@ -1,5 +1,5 @@
 {
-  "last_updated": 1768618909000,
+  "last_updated": 1768622509000,
   "categories": [
     {
       "id": "MOMOS",
@@ -69,20 +69,6 @@
       "is_deleted": false,
       "updated_time": 1767089200000,
       "created_time": 1767089200000,
-      "sub_categories": []
-    },
-    {
-      "id": "TANGY_SNACK_HUB",
-      "name": "Tangy Snack Hub",
-      "short_name": "Tangy Snacks",
-      "icon": null,
-      "description": "Crispy and tasty snack items",
-      "is_featured": true,
-      "sort_order": 1,
-      "status": "Active",
-      "is_deleted": false,
-      "updated_time": 1767089500000,
-      "created_time": 1767089500000,
       "sub_categories": []
     },
     {
