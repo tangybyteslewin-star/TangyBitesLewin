@@ -1,5 +1,5 @@
 {
-  "last_updated": 1768425391082,
+  "last_updated": 1768622509000,
   "products": [
     {
       "id": "TB_MOMOS_MIX_STEAM",
@@ -929,7 +929,7 @@
       "id": "TSH_VEG_NUGGETS",
       "name": "Veg Nuggets",
       "short_name": "Veg Nuggets",
-      "category_id": "TANGY_SNACK_HUB",
+      "category_id": "COMBOS",
       "sub_category_id": null,
       "description": "Crispy veg nuggets",
       "images": [],
@@ -954,7 +954,7 @@
       "id": "TSH_CHICKEN_NUGGETS",
       "name": "Chicken Nuggets",
       "short_name": "Chicken Nuggets",
-      "category_id": "TANGY_SNACK_HUB",
+      "category_id": "COMBOS",
       "sub_category_id": null,
       "description": "Crispy chicken nuggets",
       "images": [],
