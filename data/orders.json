@@ -1,48 +1,55 @@
 {
-    "last_updated": 1768448912223,
+    "last_updated": 1768635762947,
     "orders": [
         {
-            "id": "1768448912223",
+            "id": "1768635762947",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
-                {
-                    "productId": "TB_MOMOS_MIX_STEAM",
-                    "productName": "Mixed Veg Momos (Steamed)",
-                    "quantity": 1,
-                    "priceEach": 70.0,
-                    "totalPrice": 70.0
-                },
-                {
-                    "productId": "TB_POPCORN_LARGE",
-                    "productName": "Chicken Popcorn (Large)",
-                    "quantity": 1,
-                    "priceEach": 130.0,
-                    "totalPrice": 130.0
-                },
-                {
-                    "productId": "TB_FRIES_CHEESE",
-                    "productName": "Cheese Loaded Fries",
-                    "quantity": 1,
-                    "priceEach": 90.0,
-                    "totalPrice": 90.0
-                },
                 {
                     "productId": "TB_COMBO_CRUNCH_N_CHILL",
                     "productName": "Crunch N’ Chill",
                     "quantity": 1,
                     "priceEach": 129.0,
                     "totalPrice": 129.0
+                },
+                {
+                    "productId": "TB_COMBO_CRUNCH_CARNIVAL",
+                    "productName": "Crunch Carnival Combo",
+                    "quantity": 1,
+                    "priceEach": 249.0,
+                    "totalPrice": 249.0
+                },
+                {
+                    "productId": "TB_COMBO_CRISP_N_CHILL",
+                    "productName": "Crisp & Chill Combo",
+                    "quantity": 2,
+                    "priceEach": 289.0,
+                    "totalPrice": 289.0
+                },
+                {
+                    "productId": "TB_COMBO_BITEZ_ROYALE",
+                    "productName": "Bitez Royale",
+                    "quantity": 1,
+                    "priceEach": 339.0,
+                    "totalPrice": 339.0
+                },
+                {
+                    "productId": "TB_MOMOS_CHICKEN_STEAM",
+                    "productName": "Chicken Momos (Steamed)",
+                    "quantity": 1,
+                    "priceEach": 90.0,
+                    "totalPrice": 90.0
                 }
             ],
-            "subtotal": 419.0,
+            "subtotal": 1385.0,
             "deliveryCharge": 0.0,
-            "total": 419.0,
+            "total": 1385.0,
             "status": "Confirmed",
             "paymentMode": "GPAY",
-            "createdTime": 1768448912223,
-            "updatedTime": 1768448912223,
+            "createdTime": 1768635762947,
+            "updatedTime": 1768635762947,
             "isDeleted": false,
             "note": null
         }
