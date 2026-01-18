@@ -1,27 +1,27 @@
 {
-    "last_updated": 1768747099071,
+    "last_updated": 1768747197116,
     "orders": [
         {
-            "id": "1768747099071",
+            "id": "1768747197116",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
                 {
-                    "productId": "TB_MOMOS_CHICKEN_STEAM",
-                    "productName": "Chicken Momos (Steamed)",
+                    "productId": "TB_MOMOS_CHICKEN_FRIED",
+                    "productName": "Chicken Momos (Fried)",
                     "quantity": 1,
-                    "priceEach": 90.0,
-                    "totalPrice": 90.0
+                    "priceEach": 100.0,
+                    "totalPrice": 100.0
                 }
             ],
-            "subtotal": 90.0,
+            "subtotal": 100.0,
             "deliveryCharge": 0.0,
-            "total": 90.0,
+            "total": 100.0,
             "status": "Confirmed",
             "paymentMode": "GPAY",
-            "createdTime": 1768747099071,
-            "updatedTime": 1768747099071,
+            "createdTime": 1768747197116,
+            "updatedTime": 1768747197116,
             "isDeleted": false,
             "note": ""
         }
