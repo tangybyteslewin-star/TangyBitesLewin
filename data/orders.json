@@ -1,27 +1,27 @@
 {
-    "last_updated": 1768746890317,
+    "last_updated": 1768746955656,
     "orders": [
         {
-            "id": "1768746890317",
+            "id": "1768746955656",
             "customerName": "Lewin",
             "mobile": "",
             "address": "",
             "items": [
                 {
-                    "productId": "TB_FRIES_NORMAL",
-                    "productName": "Normal Fries",
-                    "quantity": 1,
-                    "priceEach": 50.0,
-                    "totalPrice": 50.0
+                    "productId": "TB_MOMOS_CHICKEN_STEAM",
+                    "productName": "Chicken Momos (Steamed)",
+                    "quantity": 2,
+                    "priceEach": 90.0,
+                    "totalPrice": 90.0
                 }
             ],
-            "subtotal": 50.0,
+            "subtotal": 180.0,
             "deliveryCharge": 0.0,
-            "total": 50.0,
+            "total": 180.0,
             "status": "Confirmed",
-            "paymentMode": "CASH",
-            "createdTime": 1768746890317,
-            "updatedTime": 1768746890317,
+            "paymentMode": "GPAY",
+            "createdTime": 1768746955656,
+            "updatedTime": 1768746955656,
             "isDeleted": false,
             "note": ""
         }
